@@ -1,7 +1,9 @@
 version: '3'
 services:
   veilid-server:
-    image: veilid-server
+    build:
+      context: .
+      dockerfile: Dockerfile
     ports:
       - "5959:5959"
       - "5050:5050"
