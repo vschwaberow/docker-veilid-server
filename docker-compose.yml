@@ -1,0 +1,8 @@
+version: '3'
+services:
+  veilid-server:
+    image: veilid-server
+    ports:
+      - "5959:5959"
+      - "5050:5050"
+      - "5050:5050/udp"
