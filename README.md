@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/vschwaberow/docker-veilid-server>
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/vschwaberow/docker-veilid-server/blob/master/images/logo.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Veilid Server Docker Image</h3>
